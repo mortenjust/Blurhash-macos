@@ -5,6 +5,7 @@ extension NSImage {
     
     /// Returns a blur has String. Use on background thread as it can take a few seconds. X, Y components between 3 and 10 work best.
     public func blurHash(numberOfComponents components: (Int, Int)) -> String? {
+        
         let pixelWidth = Int(round(size.width))
         let pixelHeight = Int(round(size.height))
 

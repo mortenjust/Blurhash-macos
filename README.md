@@ -2,7 +2,7 @@
 
 Extensions of `NSImage` to encode and decode blur hashes, based on [Wolt's algorithm](https://github.com/woltapp/blurhas)
 
-[demo.png](demo)
+<img src="demo.png">
 
 ## Usage
 

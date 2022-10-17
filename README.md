@@ -1,6 +1,6 @@
 # Blurhash-macos
 
-Extensions of `NSImage` to encode and decode blur hashes, based on [Wolt's algorithm](https://github.com/woltapp/blurhas)
+Extensions of `NSImage` to encode and decode blur hashes, based on [Wolt's implementation](https://github.com/woltapp/blurhash) for iOS.
 
 <img src="demo.png">
 
